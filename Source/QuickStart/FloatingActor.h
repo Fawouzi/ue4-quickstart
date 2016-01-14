@@ -24,5 +24,5 @@ public:
 	float RunningTime;
 
 	UPROPERTY(EditAnywhere)
-	float RunningTime;
+	float Magnitude;
 };
